@@ -63,7 +63,7 @@ nav ul{
     border: none;
 }
 
-/* ------------------------------------------------------ */
+/* ----------------------Main My-failures section-------------------------------- */
 
 .My-failures{
     display: flex;
@@ -97,3 +97,37 @@ nav ul{
     margin-top: 80px;
     margin-left: 210px;
 }
+/* My Plans styles */
+.My-Plans{
+    margin: 100px 620px 30px 620px;
+    
+}
+.all-programing{
+    display: flex;
+    text-align: center;
+    padding-left: 250px;
+    padding-right;: 250px
+    }
+.programming-title{
+    font-size: 18px;
+    font-weight: 800;
+    margin-top: 10px;
+    align-items: center;
+
+}
+.programming-discription{
+    color: #737272;
+    font-size: 15px;
+    margin-top: 5px;
+}
+.programming-languages{
+    padding-left: 80px;
+}
+
+/* -- Awlays keep a positive mindset -- */
+
+
+
+
+
+
