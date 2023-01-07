@@ -40,13 +40,6 @@ nav ul{
     margin: 80px 250px;
 }
 
-.banner-area{
-}
-/* .contant-area{
-    height: 100%;
-    display: flex;
-    align-items: center;
-} */
 .contant{
     text-align: right;
     padding: 260px 180px 0 800px;
@@ -73,7 +66,7 @@ nav ul{
     border: none;
 }
 
-/* ----------------------Main My-failures section-------------------------------- */
+/* -------Main My-failures section---------- */
 
 .My-failures{
     display: flex;
@@ -132,7 +125,7 @@ nav ul{
     color: #737272;
     font-size: 15px;
     margin-top: 5px;
-    padding-bottom: 30px;
+    padding-bottom: 60px;
 }
 .programming-languages{
     padding-left: 50apx;
@@ -141,32 +134,15 @@ nav ul{
 
 /* -- Awlays keep a positive mindset -- */
 
-
-/* .image2{
-    margin: 20px 100px;
-    background-image: url(../images/watch.png);
-}
 .positive{
-    margin: 0;
-    padding: 100;
-    text-decoration: solid;    
-}
-.positive-title{
-    position: absolute;
-    width: 100%; 
-    text-align:center;
-
-} */
-
-/* text */
-.test{
     flex-basis: 32%;
     border-radius: 10px;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
+    margin-top: 20px;
     position: relative;
 
 }
-.test-title{
+.positive-title{
     height: 100%;
     width: 1100px;
     margin-left: 100px;
@@ -177,7 +153,7 @@ nav ul{
     left:0;
     right: 3300px;
 }
-.test-header{
+.positive-header{
     text-align: left;
     margin-top: 100px;
     margin-left: 100px;
@@ -185,7 +161,7 @@ nav ul{
     color: aliceblue;
     margin-bottom: 15px;
 }
-.test-image{
+.positive-image{
     background-repeat: no-repeat;
     margin-left: 100px;
     margin-right: 900px;
