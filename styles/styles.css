@@ -11,9 +11,12 @@ header{
 
 }
 .nav-title{
-    font-weight: 800;
-    font-size: 20px;
-    margin-left: 620px;
+        margin-left: 620px;
+       
+        border-radius: 3px;
+        background-color: ;
+        color: #FFFFFF;
+        
     
 }
 nav{
@@ -130,7 +133,7 @@ nav ul{
 }
 .programming-languages{
     padding-left: 50apx;
-    margin-right: 140px;
+    margin-right: 120px;
 }
 
 /* -- Awlays keep a positive mindset -- */
